@@ -11,17 +11,17 @@ The dataset is divided into 3 directories :
 The recommended folder structure:
 
 pred_data<br>
-&nbsp;|-images...<br>
+&nbsp;&nbsp;&nbsp;&nbsp;|-images...<br>
 test-data<br>
-&nbsp;|-class-1<br>
-&nbsp;&nbsp;|-images...<br>
-&nbsp;|-...<br>
-&nbsp;|-class-6<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-class-1<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-images...<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-...<br>
+&nbsp;&nbsp;&nbsp;&nbsp;|-class-6<br>
 train_data<br>
-&nbsp;|-class-1<br>
-&nbsp;&nbsp;|-images...<br>
-&nbsp;|-...<br>
-&nbsp;|-class-6<br>
+&nbsp;&nbsp;&nbsp;&nbsp;|-class-1<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-images...<br>
+&nbsp;&nbsp;&nbsp;&nbsp;|-...<br>
+&nbsp;&nbsp;&nbsp;|-class-6<br>
 main.ipynb<br>
 
 
