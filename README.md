@@ -9,7 +9,7 @@ The dataset is divided into 3 directories :
 ##### seg_train
 
 <br>
-The recommended folder structure:
+Recommended folder structure:
 
 ```plaintext
 pred_data
