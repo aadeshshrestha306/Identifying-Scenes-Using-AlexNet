@@ -8,23 +8,26 @@ The dataset is divided into 3 directories :
 ##### seg_test
 ##### seg_train
 
+<br>
 The recommended folder structure:
 
-##### pred_data<br>
-##### &nbsp;&nbsp;&nbsp;&nbsp;|-images...<br>
-##### test-data<br>
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-class-1<br>
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-images...<br>
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-...<br>
-##### &nbsp;&nbsp;&nbsp;&nbsp;|-class-6<br>
-##### train_data<br>
-##### &nbsp;&nbsp;&nbsp;&nbsp;|-class-1<br>
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-images...<br>
-##### &nbsp;&nbsp;&nbsp;&nbsp;|-...<br>
-##### &nbsp;&nbsp;&nbsp;|-class-6<br>
-##### main.ipynb<br>
-
-
+```plaintext
+pred_data
+    |-images...
+test-data
+    |-class-1
+        |-images...
+    |-...
+    |-class-6
+train_data
+    |-class-1
+        |-images...
+    |-...
+    |-class-6
+main.ipynb
+```
+<br>
 6 different sub-directories can be found inside the test and train folders.
 
+<br>
 The model achieved ~88% accuracy on training data and ~79% accuracy on test data.
