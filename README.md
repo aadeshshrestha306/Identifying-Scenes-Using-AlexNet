@@ -10,19 +10,19 @@ The dataset is divided into 3 directories :
 
 The recommended folder structure:
 
-pred_data<br>
-&nbsp;&nbsp;&nbsp;&nbsp;|-images...<br>
-test-data<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-class-1<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-images...<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-...<br>
-&nbsp;&nbsp;&nbsp;&nbsp;|-class-6<br>
-train_data<br>
-&nbsp;&nbsp;&nbsp;&nbsp;|-class-1<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-images...<br>
-&nbsp;&nbsp;&nbsp;&nbsp;|-...<br>
-&nbsp;&nbsp;&nbsp;|-class-6<br>
-main.ipynb<br>
+##### pred_data<br>
+##### &nbsp;&nbsp;&nbsp;&nbsp;|-images...<br>
+##### test-data<br>
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-class-1<br>
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-images...<br>
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-...<br>
+##### &nbsp;&nbsp;&nbsp;&nbsp;|-class-6<br>
+##### train_data<br>
+##### &nbsp;&nbsp;&nbsp;&nbsp;|-class-1<br>
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-images...<br>
+##### &nbsp;&nbsp;&nbsp;&nbsp;|-...<br>
+##### &nbsp;&nbsp;&nbsp;|-class-6<br>
+##### main.ipynb<br>
 
 
 6 different sub-directories can be found inside the test and train folders.
