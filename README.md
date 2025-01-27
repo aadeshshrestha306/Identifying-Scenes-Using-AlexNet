@@ -8,21 +8,21 @@ The dataset is divided into 3 directories :
 ##### seg_test
 ##### seg_train
 
-The recommemded folder structre:
+The recommended folder structure:
 
-pred_data
-    |-images...
-test-data
-    |-class-1
-        |-images...
-    |-...
-    |-class-6
-train_data
-    |-class-1
-        |-images...
-    |-...
-    |-class-6
-main.ipynb
+pred_data<br>
+    |-images...<br>
+test-data<br>
+    |-class-1<br>
+        |-images...<br>
+    |-...<br>
+    |-class-6<br>
+train_data<br>
+    |-class-1<br>
+        |-images...<br>
+    |-...<br>
+    |-class-6<br>
+main.ipynb<br>
 
 
 6 different sub-directories can be found inside the test and train folders.
