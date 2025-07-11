@@ -29,4 +29,4 @@ main.ipynb
 <br>
 6 different sub-directories can be found inside the test and train folders.
 
-The model achieved ~88% accuracy on training data and ~79% accuracy on test data.
+The model achieved ~95% accuracy on training data and ~79% accuracy on test data.
