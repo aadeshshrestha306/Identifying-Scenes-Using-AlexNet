@@ -1,6 +1,6 @@
-## AlexNet implementation on PyTorch
+## AlexNet implementation in PyTorch
 
-#### The AlexNet is trained on Intel Image Classification Dataset from Kaggle found [here](https://www.kaggle.com/datasets/puneet6060/intel-image-classification).
+#### The Network is trained on Intel Image Classification Dataset from Kaggle found [here](https://www.kaggle.com/datasets/puneet6060/intel-image-classification).
 
 The dataset contains 3 folders (seg_pred, seg_test, seg_train)
 
