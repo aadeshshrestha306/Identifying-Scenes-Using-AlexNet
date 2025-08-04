@@ -1,15 +1,14 @@
-## A simple Convolutaion Neural Network built on PyTorch
+## AlexNet implementation on PyTorch
 
-#### The ConvNet is trained on Intel Image Classification Dataset from Kaggle which can be found [here](https://www.kaggle.com/datasets/puneet6060/intel-image-classification).
+#### The CNN is trained on Intel Image Classification Dataset from Kaggle which can be found [here](https://www.kaggle.com/datasets/puneet6060/intel-image-classification).
 
-The dataset is divided into 3 directories :
+The dataset is contains 3 folders:
 
-##### seg_pred
-##### seg_test
-##### seg_train
+seg_pred, seg_test, seg_train
+
+### Recommended folder structure:
 
 <br>
-Recommended folder structure:
 
 ```plaintext
 pred_data
@@ -24,9 +23,16 @@ train_data
         |-images...
     |-...
     |-class-6
-main.ipynb
+AlexNet.ipynb       # Notebook
 ```
 <br>
-6 different sub-directories can be found inside the test and train folders.
 
-The model achieved ~95% accuracy on training data and ~79% accuracy on test data.
+### Train Accuracy and Loss over Epoch 
+![Metrics](metrics.jpg)
+
+
+### Confusion Matrix
+![Confusion_Matric](cm.jpg)
+
+
+### The final accuracy was 91.31% for training data and 85.13% for test data.
