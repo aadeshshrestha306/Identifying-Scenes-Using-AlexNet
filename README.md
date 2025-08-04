@@ -1,33 +1,21 @@
 ## AlexNet implementation on PyTorch
 
-#### The CNN is trained on Intel Image Classification Dataset from Kaggle which can be found [here](https://www.kaggle.com/datasets/puneet6060/intel-image-classification).
+#### The AlexNet is trained on Intel Image Classification Dataset from Kaggle found [here](https://www.kaggle.com/datasets/puneet6060/intel-image-classification).
 
-The dataset is contains 3 folders:
+The dataset contains 3 folders (seg_pred, seg_test, seg_train)
 
-seg_pred, seg_test, seg_train
+### Recommended folder structure
 
-### Recommended folder structure:
-
-<br>
 
 ```plaintext
-pred_data
-    |-images...
-test-data
-    |-class-1
-        |-images...
-    |-...
-    |-class-6
-train_data
-    |-class-1
-        |-images...
-    |-...
-    |-class-6
-AlexNet.ipynb       # Notebook
+seg_pred        # Prediction Data
+seg_test        # Test Data
+seg_train       # Train Data
+AlexNet.ipynb   # Notebook file
 ```
-<br>
 
-### Train Accuracy and Loss over Epoch 
+
+### Train Accuracy and Loss over 10 Epochs 
 ![Metrics](metrics.jpg)
 
 
