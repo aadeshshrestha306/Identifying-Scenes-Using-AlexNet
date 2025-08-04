@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="63d428f2-1a63-4bc4-b007-8a61d9816e48" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cm.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cm.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/metrics.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/metrics.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlexNet.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/AlexNet.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +61,7 @@
       <workItem from="1754304608789" duration="1862000" />
       <workItem from="1754306539934" duration="844000" />
       <workItem from="1754308066597" duration="2766000" />
-      <workItem from="1754321797491" duration="4732000" />
+      <workItem from="1754321797491" duration="5397000" />
     </task>
     <servers />
   </component>
